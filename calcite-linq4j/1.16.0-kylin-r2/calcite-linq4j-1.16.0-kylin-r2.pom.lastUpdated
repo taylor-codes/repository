@@ -1,0 +1,17 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 30 17:58:05 CDT 2021
+http\://repo.spring.io/libs-snapshot/.error=Could not transfer artifact org.apache.calcite\:calcite-linq4j\:pom\:1.16.0-kylin-r2 from/to spring-snapshots (http\://repo.spring.io/libs-snapshot)\: Transfer failed for http\://repo.spring.io/libs-snapshot/org/apache/calcite/calcite-linq4j/1.16.0-kylin-r2/calcite-linq4j-1.16.0-kylin-r2.pom 308 Permanent Redirect
+http\://conjars.org/repo/.lastUpdated=1633042682887
+@default-spring-snapshots-http\://repo.spring.io/libs-snapshot/.lastUpdated=1633042682675
+http\://conjars.org/repo/.error=
+https\://repository.apache.org/content/repositories/snapshots/.error=
+https\://repository.apache.org/content/repositories/snapshots/.lastUpdated=1633042681455
+https\://build.shibboleth.net/nexus/content/repositories/releases/.error=
+https\://repository.apache.org/content/repositories/public/.lastUpdated=1633042682377
+https\://repo.maven.apache.org/maven2/.lastUpdated=1633042682449
+http\://repository.kyligence.io/repository/maven-public/.lastUpdated=1633042685168
+https\://repo.maven.apache.org/maven2/.error=
+https\://build.shibboleth.net/nexus/content/repositories/releases/.lastUpdated=1633042683654
+https\://repository.cloudera.com/artifactory/cloudera-repos/.lastUpdated=1633042683287
+https\://repository.cloudera.com/artifactory/cloudera-repos/.error=
+https\://repository.apache.org/content/repositories/public/.error=
